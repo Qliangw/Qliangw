@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qliangw" alt="qliangw" /></a> </p>
 
-- 🌱 学习中 **C,Kernel**
+- 🌱 还学习中 **C,Kernel**
 
-- 👨‍💻 项目地址 [https://github.com/Qliangw](https://github.com/Qliangw)
+- 👨‍💻 项目地址 [Github主页](https://github.com/Qliangw)
 
-- 📝 我的笔记 [https://qliangw.notion.site](https://qliangw.notion.site)
+- 📝 我的笔记 [Notion主页](https://qliangw.notion.site)
 
-- 📫 联系我 **qili00001@gmail.com**
+- 📫 请联系我 **qili00001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
