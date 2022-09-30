@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qliangw" alt="qliangw" /></a> </p>
 
-- 🌱 学习中 **C++,Kernel,U-Boot,Python**
+- 🌱 学习中 **C,Kernel**
 
 - 👨‍💻 项目地址 [https://github.com/Qliangw](https://github.com/Qliangw)
 
