@@ -3,7 +3,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qliangw&label=Profile%20views&color=0e75b6&style=flat" alt="qliangw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qliangw" alt="qliangw" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=qliangw&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<div>
+
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=qliangw&count_private=true&include_all_commits=true" />
+  <!-- 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qliangw&show_icons=true&locale=en" alt="qliangw" /></p> 
+  -->
+  
+  <!-- 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qliangw&show_icons=true&locale=en&layout=compact" alt="qliangw" /></p>
+  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qliangw&layout=compact" />
+  
+
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qliangw&" alt="qliangw" /></p> -->
+
+</div>
+
+---
+
 
 - 🌱 还学习中 **C,Kernel**
 
@@ -12,17 +38,3 @@
 - 📝 我的笔记 [Notion主页](https://qliangw.notion.site)
 
 - 📫 请联系我 **qili00001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qliangw&show_icons=true&locale=en&layout=compact" alt="qliangw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qliangw&show_icons=true&locale=en" alt="qliangw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qliangw&" alt="qliangw" /></p>
-
