@@ -28,13 +28,3 @@
 
 </div>
 
----
-
-
-- 🌱 还学习中 **C,Kernel**
-
-- 👨‍💻 项目地址 [Github主页](https://github.com/Qliangw)
-
-- 📝 我的笔记 [Notion主页](https://qliangw.notion.site)
-
-- 📫 请联系我 **qili00001@gmail.com**
